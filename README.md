@@ -1,0 +1,1 @@
+# Gauss-Jordan-polynomial-in-Shamir-Secret
